@@ -1,5 +1,5 @@
 <h2 id="hi-there">Hi there ── .✦</h2>
-# ✦. ── I'm Azalia Fathimah Dinah ── .✦
+<h1 id="name"> ✦. ── I'm Azalia Fathimah Dinah ── .✦</h1>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
 </div>
