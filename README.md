@@ -1,10 +1,11 @@
-<h3 id="hi-there">Hi there ── .✦</h3>
+<h2 id="hi-there">Hi there ── .✦</h2>
+# ✦. ── I'm Azalia Fathimah Dinah ── .✦
 <div align="center">
   <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
 </div>
 <br />
 <ul>
-  <li>𑁤 My name is Azalia Fathimah Dinah (siNagaBonar). I am Indonesian. Welcome to my GitHub homepage!</li>
+  <li>𑁤 I am Azalia a.k.a siNagaBonar. I am Indonesian. Welcome to my GitHub homepage!</li>
 <li>𑁤 I am currently an undergraduate student majoring in Informatics Engineering ⭐️</li>
 <li>꩜ .ᐟ I know HTML</li>
 <li>જ⁀➴ And a little bit of CSS, JavaScript, PHP, Laravel, Java, C++, Python, etc. Xixixi</li>
