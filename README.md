@@ -4,11 +4,12 @@
 </div>
 <br />
 <ul>
-  <li>𑁤 My name is Azalia Fathimah Dinah (siNagaBonar), I am Indonesian, welcome to my GitHub home page ⭐️</li>
-  <li>꩜ .ᐟ I know HTML</li>
-  <li>જ⁀➴ And a little bit of CSS, JavaScript, PHP, Laravel, Java, C++, Pyhton, etc. Xixixi</li>
-  <li>⋆🐾° Love the beautiful code and photos (and cats!)</li>
-  <li>✎ᝰ. Learning by doing -!!</li>
+  <li>𑁤 My name is Azalia Fathimah Dinah (siNagaBonar). I am Indonesian. Welcome to my GitHub homepage!</li>
+<li>𑁤 I am currently an undergraduate student majoring in Informatics Engineering ⭐️</li>
+<li>꩜ .ᐟ I know HTML</li>
+<li>જ⁀➴ And a little bit of CSS, JavaScript, PHP, Laravel, Java, C++, Python, etc. Xixixi</li>
+<li>⋆🐾° I love beautiful code and photos (and cats!)</li>
+<li>✎ᝰ. Learning by doing -!!</li>
 </ul>
 <div align="center">
   <picture align="center">
